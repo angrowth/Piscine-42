@@ -6,7 +6,7 @@
 /*   By: anachid <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/06 18:30:08 by anachid           #+#    #+#             */
-/*   Updated: 2020/08/07 15:34:01 by anachid          ###   ########.fr       */
+/*   Updated: 2020/08/09 09:54:02 by anachid          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,8 +30,9 @@ void	print(int a, int b)
 
 void	ft_print_comb2(void)
 {
-	int a;
-	int b;
+	int	a;
+	int	b;
+
 	a = 0;
 	while (a <= 98)
 	{
